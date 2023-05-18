@@ -30,9 +30,3 @@
 <code><img height="20" src="https://shields.io/badge/style-Visual Studio Code-007ACC?logo=Visual Studio Code&style=flat-square&label=" alt="Visual Studio Code" title="Visual Studio Code"></code>
 <code><img height="20" src="https://shields.io/badge/style-macOS-black?logo=macOS&style=flat-square&label=" alt="macOS" title="macOS"></code>
 <code><img height="20" src="https://shields.io/badge/style-Windows-blue?logo=windows&style=flat-square&label=" alt="windows" title="windows"></code>
-
----
-**🎆Weekly development breakdown**
-
-```text
-No activity tracked
