@@ -10,7 +10,7 @@
 - 👨‍🎓 A software development student at UCR
 - 😜 Fluent in Chinese (Cantonese and Mandarin) and English
 - 💪 Passionate about creating innovative solutions to complex problems
-- 😍 Recently loving songs by [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI?si=ago_pwTfSLucm7HIO5y3yw)
+- 😍 I appreciate new opportunities and learning new things.
 
 <br />
 <hr/>
