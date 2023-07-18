@@ -1,10 +1,5 @@
 <h1 align="center">Hi, 👋 I'm <a href="https://github.com/cwong165/">Chun Ho Wong</a></h1>
 
-<a href="https://github.com/cwong165" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=cwong165&hide=issues&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Chun Ho Wong's Stats" align="right">
-</a>
-
-
 <br />
 
 - 👨‍🎓 A software development student at UCR
